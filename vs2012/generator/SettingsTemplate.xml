@@ -133,7 +133,7 @@
               <Item Name="XML Comment" Foreground="$SecondaryContent" Background="0x02000000" BoldFont="No"/>
               <Item Name="XML Delimiter" Foreground="$Magenta" Background="0x02000000" BoldFont="No"/>
               <Item Name="XML Doc Attribute" Foreground="$SecondaryContent" Background="$BgHighlight" BoldFont="No"/>
-              <Item Name="XML Doc Comment" Foreground="$SecondaryContent" Background="$BgHighlight" BoldFont="Yes"/>
+              <Item Name="XML Doc Comment" Foreground="$SecondaryContent" Background="$BgHighlight" BoldFont="No"/>
               <Item Name="XML Doc Tag" Foreground="$SecondaryContent" Background="$BgHighlight" BoldFont="No"/>
               <Item Name="XML Keyword" Foreground="$Blue" Background="0x02000000" BoldFont="No"/>
               <Item Name="XML Name" Foreground="$Blue" Background="0x02000000" BoldFont="Yes"/>
