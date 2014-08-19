@@ -17,7 +17,7 @@
               <Item Name="Line Number" Foreground="$MiddleGray" Background="$Background" BoldFont="No"/>
               <Item Name="Visible Whitespace" Foreground="$BgHighlight" Background="0x02000000" BoldFont="No"/>
               <Item Name="Bookmark" Foreground="$BgHighlight" Background="$Highlight1" BoldFont="No"/>
-              <Item Name="Brace Matching (Rectangle)" Foreground="0x02000000" Background="$Highlight1" BoldFont="No"/>
+              <Item Name="Brace Matching (Rectangle)" Foreground="$Highlight1" Background="$SecondaryContent" BoldFont="No"/>
               <Item Name="Breakpoint (Disabled)" Foreground="$Red" Background="0x02000000" BoldFont="No"/>
               <Item Name="Breakpoint (Enabled)" Foreground="$Highlight2" Background="$Red" BoldFont="No"/>
               <Item Name="Breakpoint (Error)" Foreground="$Highlight1" Background="$Red" BoldFont="No"/>
