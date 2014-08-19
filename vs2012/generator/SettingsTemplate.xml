@@ -107,8 +107,8 @@
               <Item Name="Track Changes after save" Foreground="0x02000000" Background="$Green" BoldFont="No"/>
               <Item Name="Track Changes before save" Foreground="0x02000000" Background="$Yellow" BoldFont="No"/>
               <Item Name="User Types" Foreground="$Yellow" Background="0x02000000" BoldFont="Yes"/>
-              <Item Name="User Types(Delegates)" Foreground="$Violet" Background="0x02000000" BoldFont="Yes"/>
-              <Item Name="User Types(Enums)" Foreground="$Yellow" Background="0x02000000" BoldFont="Yes"/>
+              <Item Name="User Types(Delegates)" Foreground="$Magenta" Background="0x02000000" BoldFont="Yes"/>
+              <Item Name="User Types(Enums)" Foreground="$Violet" Background="0x02000000" BoldFont="Yes"/>
               <Item Name="User Types(Interfaces)" Foreground="$Yellow" Background="0x02000000" BoldFont="Yes"/>
               <Item Name="User Types(Value types)" Foreground="$Yellow" Background="0x02000000" BoldFont="Yes"/>
               <Item Name="Warning" Foreground="$Green" Background="0x02000000" BoldFont="No"/>
