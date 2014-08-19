@@ -8,7 +8,7 @@
       <PropertyValue name="Version">2</PropertyValue>
       <FontsAndColors Version="2.0">
         <Categories>
-          <Category GUID="{A27B4E24-A735-4D1D-B8E7-9716E1E3D8E0}" FontIsDefault="Yes">
+          <Category GUID="{A27B4E24-A735-4D1D-B8E7-9716E1E3D8E0}" FontName="Source Code Pro" FontSize="12" CharSet="1" FontIsDefault="No">
             <Items>
               <Item Name="Plain Text" Foreground="$PrimaryContent" Background="$Background" BoldFont="Yes"/>
               <Item Name="Selected Text" Foreground="$PrimaryContent" Background="$SecondaryContent" BoldFont="No"/>
@@ -222,7 +222,7 @@
 <!--              <Item Name="ReSharper Current Line Highlight" Foreground="0x02000000" Background="0x00E0FFFF" BoldFont="No"/>-->
             </Items>
           </Category>
-          <Category GUID="{75A05685-00A8-4DED-BAE5-E7A50BFA929A}" FontIsDefault="Yes">
+          <Category GUID="{75A05685-00A8-4DED-BAE5-E7A50BFA929A}" FontName="Source Code Pro" FontSize="12" CharSet="1" FontIsDefault="No">
             <Items>
               <Item Name="CSS Extension Variable Declaration" Foreground="$Violet" Background="$Background" BoldFont="No"/>
               <Item Name="CSS Extension Variable Reference" Foreground="$Violet" Background="$Background" BoldFont="No"/>
